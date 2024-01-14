@@ -1,1 +1,1 @@
-# Project is based on HTML, CSS, and JS
+# This project is based on HTML, CSS, and JS
